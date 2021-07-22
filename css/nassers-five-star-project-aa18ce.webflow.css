@@ -1,0 +1,299 @@
+.sec1 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  background-image: url('../images/sport.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.divwrapper {
+  display: block;
+  width: 10%;
+  height: 100%;
+  background-color: #000;
+}
+
+.loadtext {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.heading {
+  color: #fff;
+  font-size: 60px;
+}
+
+.loadwrapper {
+  overflow: hidden;
+  height: 150px;
+}
+
+.text-block {
+  margin-top: 23px;
+  color: #c20505;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.sec3 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  background-image: url('../images/sport.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mysection {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  background-image: url('../images/lars-bo-nielsen-Wu7hYE7Lzzs-unsplash.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgcover {
+  width: 50%;
+  height: 100%;
+  background-color: #000;
+}
+
+.textcont {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  z-index: 10;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.heading-2 {
+  color: #fff;
+  font-size: 60px;
+}
+
+.sec100 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  background-image: url('../images/mick-haupt-p7N4GuhFqdU-unsplash.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgloader {
+  width: 25%;
+  height: 100%;
+  background-color: #000;
+}
+
+.textloader {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.heading-3 {
+  height: 100px;
+  color: #fff;
+  font-size: 60px;
+}
+
+.text-block-2 {
+  color: #fff;
+}
+
+.form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.frmfldbox {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+}
+
+.frmtlb {
+  width: 10rem;
+  margin-left: 10px;
+  direction: rtl;
+  text-align: left;
+}
+
+.container {
+  margin-top: 132px;
+}
+
+.submit-button {
+  width: 50rem;
+}
+
+.section {
+  height: 400px;
+  background-color: rgba(0, 0, 0, 0.43);
+}
+
+.container-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.heading-4 {
+  font-size: 60px;
+}
+
+.coffeeheader {
+  height: 60px;
+  border-bottom: 1px solid #353535;
+  background-color: #000;
+  color: #000;
+}
+
+.body {
+  border-bottom: 1px solid rgba(31, 31, 31, 0.79);
+}
+
+.item {
+  position: relative;
+  width: 30vw;
+  height: 40vw;
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+}
+
+.main {
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.action {
+  display: block;
+  width: 100%;
+  color: #5c5c5c;
+  text-align: center;
+}
+
+.h3h {
+  background-color: #dbdbdb;
+  color: #3498db;
+  font-size: 36px;
+  line-height: 100px;
+  text-align: center;
+}
+
+.aclnk {
+  display: inline-block;
+  margin-right: 29px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+}
+
+.aclnk:hover {
+  color: #d0ff00;
+}
+
+.container-3 {
+  padding-bottom: 61px;
+}
